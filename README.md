@@ -1,4 +1,4 @@
-## Application that Can Predict Heart Disease Using Machine learning model
+## Application that Can Predict Heart Disease Using Machine Learning Model
 
 2021.12.30
 --------------------------------
