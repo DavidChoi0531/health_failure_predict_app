@@ -1,5 +1,7 @@
 ## Application that Can Predict Heart Disease Using Machine learning model
 
+2021.12.30
+--------------------------------
 - 머신러닝 모델을 이용한 심장 질환 예측 어플리케이션
 - MVVM 패턴을 적용하여 기능 분리
 - Provider를 사용한 데이터 상태 관리
