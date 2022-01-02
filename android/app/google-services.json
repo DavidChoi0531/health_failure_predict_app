@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "564196773503",
+    "project_id": "health-failure-prediction-v",
+    "storage_bucket": "health-failure-prediction-v.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564196773503:android:4018ea40ddb17360f0394a",
+        "android_client_info": {
+          "package_name": "com.teamchoi.health_failure_app_f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564196773503-628v5b9st87tl4p76po9j3adokk507vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamchoi.health_failure_app_f",
+            "certificate_hash": "f4bf0816138c17ba5513de78f3afc2403892d7b5"
+          }
+        },
+        {
+          "client_id": "564196773503-16kevsm236g41r963r0u9oic43ahcs2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK5N7o8pPycr37bGMExU98zu-5Gtt3quM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564196773503-16kevsm236g41r963r0u9oic43ahcs2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564196773503-7lesnpcdtgm59th67f2rgm88koicoo8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthFailurePredictionVApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
